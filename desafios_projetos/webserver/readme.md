@@ -89,10 +89,3 @@ chmod +x iac.sh
 ```bash
 ./iac.sh
 ```
-
----
-
-Se quiser, posso também traduzir e comentar o conteúdo do próprio script `iac.sh`. Deseja isso?
-
-
-

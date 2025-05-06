@@ -5,8 +5,8 @@ Este diretório contém os projetos práticos desenvolvidos durante o Bootcamp S
 ## Estrutura do Diretório
 
 
-### 1. [Gerenciamento](./desafios_projetos/gerenciamento/)
-**Arquivo:** [readme.md](./desafios_projetos/gerenciamento/readme.md)
+### 1. [Gerenciamento](./gerenciamento/)
+**Arquivo:** [readme.md](./gerenciamento/readme.md)
 
 Script de automação para gerenciamento de usuários, diretórios e permissões no Linux:
 - Criação de grupos de usuários (Administrativo, Vendas, Segurança)
@@ -16,8 +16,8 @@ Script de automação para gerenciamento de usuários, diretórios e permissões
 
 Este projeto demonstra boas práticas de administração de sistemas Linux através de automação com shell script.
 
-### 2. [Webserver](./desafios_projetos/webserver/)
-**Arquivo:** [readme.md](./desafios_projetos/webserver/readme.md)
+### 2. [Webserver](./webserver/)
+**Arquivo:** [readme.md](./webserver/readme.md)
 
 Implementação de Infrastructure as Code (IaC) para configuração automatizada de servidor web:
 - Instalação e configuração do Apache2
@@ -27,8 +27,8 @@ Implementação de Infrastructure as Code (IaC) para configuração automatizada
 
 O projeto ilustra como utilizar scripts de automação para garantir implantações consistentes e reproduzíveis de infraestrutura de servidores web.
 
-### 3. [Docker](./desafios_projetos/docker/)
-**Arquivo:** [readme.md](./desafios_projetos/docker/readme.md)
+### 3. [Docker](./docker/)
+**Arquivo:** [readme.md](./docker/readme.md)
 
 Projeto prático de implementação de microserviços utilizando Docker, incluindo:
 - Balanceamento de carga com Nginx

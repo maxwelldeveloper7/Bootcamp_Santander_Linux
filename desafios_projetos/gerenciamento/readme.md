@@ -42,5 +42,3 @@ chmod +x usuarios_diretorios_permissoes.sh
 # Executar o script como root ou com sudo
 sudo ./usuarios_diretorios_permissoes.sh  
 ```
-
-Este arquivo **README.md** fornece uma visão geral detalhada da funcionalidade do script, instruções de uso e considerações importantes. Ele está estruturado de forma clara e profissional para ajudar os usuários a compreenderem o propósito e a implementação do script.
